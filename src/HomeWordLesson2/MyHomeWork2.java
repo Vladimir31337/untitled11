@@ -1,5 +1,5 @@
 package HomeWordLesson2;
-
+//домашняя работа № 2
 public class MyHomeWork2 {
 
     private final static int SIZE = 4;
